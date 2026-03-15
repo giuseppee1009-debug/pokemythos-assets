@@ -1,0 +1,844 @@
+{
+  "absorb": {
+    "effects": [
+      {
+        "percent": 50,
+        "type": "drain"
+      }
+    ]
+  },
+  "air-slash": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "astonish": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "bite": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "blaze-kick": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "burn",
+        "type": "status"
+      }
+    ]
+  },
+  "blizzard": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "freeze",
+        "type": "status"
+      }
+    ]
+  },
+  "blue-flare": {
+    "effects": [
+      {
+        "chance": 20,
+        "status": "burn",
+        "type": "status"
+      }
+    ]
+  },
+  "body-slam": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "paralysis",
+        "type": "status"
+      }
+    ]
+  },
+  "bolt-strike": {
+    "effects": [
+      {
+        "chance": 20,
+        "status": "paralysis",
+        "type": "status"
+      }
+    ]
+  },
+  "bone-club": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "bounce": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "paralysis",
+        "type": "status"
+      }
+    ]
+  },
+  "burning-jealousy": {
+    "effects": [
+      {
+        "chance": 100,
+        "status": "burn",
+        "type": "status"
+      }
+    ]
+  },
+  "chatter": {
+    "effects": [
+      {
+        "chance": 100,
+        "status": "confusion",
+        "type": "status"
+      }
+    ]
+  },
+  "confusion": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "confusion",
+        "type": "status"
+      }
+    ]
+  },
+  "cross-poison": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "poison",
+        "type": "status"
+      }
+    ]
+  },
+  "dark-pulse": {
+    "effects": [
+      {
+        "chance": 20,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "discharge": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "paralysis",
+        "type": "status"
+      }
+    ]
+  },
+  "dizzy-punch": {
+    "effects": [
+      {
+        "chance": 20,
+        "status": "confusion",
+        "type": "status"
+      }
+    ]
+  },
+  "dragon-breath": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "paralysis",
+        "type": "status"
+      }
+    ]
+  },
+  "dragon-rush": {
+    "effects": [
+      {
+        "chance": 20,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "drain-punch": {
+    "effects": [
+      {
+        "percent": 50,
+        "type": "drain"
+      }
+    ]
+  },
+  "draining-kiss": {
+    "effects": [
+      {
+        "percent": 75,
+        "type": "drain"
+      }
+    ]
+  },
+  "dream-eater": {
+    "effects": [
+      {
+        "percent": 50,
+        "type": "drain"
+      }
+    ]
+  },
+  "dynamic-punch": {
+    "effects": [
+      {
+        "chance": 100,
+        "status": "confusion",
+        "type": "status"
+      }
+    ]
+  },
+  "ember": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "burn",
+        "type": "status"
+      }
+    ]
+  },
+  "extrasensory": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "fake-out": {
+    "effects": [
+      {
+        "chance": 100,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "fire-blast": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "burn",
+        "type": "status"
+      }
+    ]
+  },
+  "fire-fang": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "burn",
+        "type": "status"
+      },
+      {
+        "chance": 10,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "fire-punch": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "burn",
+        "type": "status"
+      }
+    ]
+  },
+  "flame-wheel": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "burn",
+        "type": "status"
+      }
+    ]
+  },
+  "flamethrower": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "burn",
+        "type": "status"
+      }
+    ]
+  },
+  "flare-blitz": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "burn",
+        "type": "status"
+      }
+    ]
+  },
+  "force-palm": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "paralysis",
+        "type": "status"
+      }
+    ]
+  },
+  "freeze-dry": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "freeze",
+        "type": "status"
+      }
+    ]
+  },
+  "giga-drain": {
+    "effects": [
+      {
+        "percent": 50,
+        "type": "drain"
+      }
+    ]
+  },
+  "gunk-shot": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "poison",
+        "type": "status"
+      }
+    ]
+  },
+  "headbutt": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "heart-stamp": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "heat-wave": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "burn",
+        "type": "status"
+      }
+    ]
+  },
+  "horn-leech": {
+    "effects": [
+      {
+        "percent": 50,
+        "type": "drain"
+      }
+    ]
+  },
+  "hurricane": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "confusion",
+        "type": "status"
+      }
+    ]
+  },
+  "hyper-fang": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "ice-beam": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "freeze",
+        "type": "status"
+      }
+    ]
+  },
+  "ice-fang": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "freeze",
+        "type": "status"
+      },
+      {
+        "chance": 10,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "ice-punch": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "freeze",
+        "type": "status"
+      }
+    ]
+  },
+  "icicle-crash": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "inferno": {
+    "effects": [
+      {
+        "chance": 100,
+        "status": "burn",
+        "type": "status"
+      }
+    ]
+  },
+  "iron-head": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "lava-plume": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "burn",
+        "type": "status"
+      }
+    ]
+  },
+  "leech-life": {
+    "effects": [
+      {
+        "percent": 50,
+        "type": "drain"
+      }
+    ]
+  },
+  "lick": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "paralysis",
+        "type": "status"
+      }
+    ]
+  },
+  "mega-drain": {
+    "effects": [
+      {
+        "percent": 50,
+        "type": "drain"
+      }
+    ]
+  },
+  "needle-arm": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "nuzzle": {
+    "effects": [
+      {
+        "chance": 100,
+        "status": "paralysis",
+        "type": "status"
+      }
+    ]
+  },
+  "oblivion-wing": {
+    "effects": [
+      {
+        "percent": 75,
+        "type": "drain"
+      }
+    ]
+  },
+  "parabolic-charge": {
+    "effects": [
+      {
+        "percent": 50,
+        "type": "drain"
+      }
+    ]
+  },
+  "poison-fang": {
+    "effects": [
+      {
+        "chance": 50,
+        "status": "poison",
+        "type": "status"
+      }
+    ]
+  },
+  "poison-jab": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "poison",
+        "type": "status"
+      }
+    ]
+  },
+  "poison-sting": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "poison",
+        "type": "status"
+      }
+    ]
+  },
+  "poison-tail": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "poison",
+        "type": "status"
+      }
+    ]
+  },
+  "powder-snow": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "freeze",
+        "type": "status"
+      }
+    ]
+  },
+  "psybeam": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "confusion",
+        "type": "status"
+      }
+    ]
+  },
+  "relic-song": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "sleep",
+        "type": "status"
+      }
+    ]
+  },
+  "rock-climb": {
+    "effects": [
+      {
+        "chance": 20,
+        "status": "confusion",
+        "type": "status"
+      }
+    ]
+  },
+  "rock-slide": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "rolling-kick": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "sacred-fire": {
+    "effects": [
+      {
+        "chance": 50,
+        "status": "burn",
+        "type": "status"
+      }
+    ]
+  },
+  "scald": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "burn",
+        "type": "status"
+      }
+    ]
+  },
+  "scorching-sands": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "burn",
+        "type": "status"
+      }
+    ]
+  },
+  "searing-shot": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "burn",
+        "type": "status"
+      }
+    ]
+  },
+  "signal-beam": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "confusion",
+        "type": "status"
+      }
+    ]
+  },
+  "sky-attack": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "sludge": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "poison",
+        "type": "status"
+      }
+    ]
+  },
+  "sludge-bomb": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "poison",
+        "type": "status"
+      }
+    ]
+  },
+  "sludge-wave": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "poison",
+        "type": "status"
+      }
+    ]
+  },
+  "smog": {
+    "effects": [
+      {
+        "chance": 40,
+        "status": "poison",
+        "type": "status"
+      }
+    ]
+  },
+  "snore": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "spark": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "paralysis",
+        "type": "status"
+      }
+    ]
+  },
+  "steam-eruption": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "burn",
+        "type": "status"
+      }
+    ]
+  },
+  "steamroller": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "stomp": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "thunder": {
+    "effects": [
+      {
+        "chance": 30,
+        "status": "paralysis",
+        "type": "status"
+      }
+    ]
+  },
+  "thunder-fang": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "paralysis",
+        "type": "status"
+      },
+      {
+        "chance": 10,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "thunder-punch": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "paralysis",
+        "type": "status"
+      }
+    ]
+  },
+  "thunder-shock": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "paralysis",
+        "type": "status"
+      }
+    ]
+  },
+  "thunderbolt": {
+    "effects": [
+      {
+        "chance": 10,
+        "status": "paralysis",
+        "type": "status"
+      }
+    ]
+  },
+  "twineedle": {
+    "effects": [
+      {
+        "chance": 20,
+        "status": "poison",
+        "type": "status"
+      }
+    ]
+  },
+  "twister": {
+    "effects": [
+      {
+        "chance": 20,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "water-pulse": {
+    "effects": [
+      {
+        "chance": 20,
+        "status": "confusion",
+        "type": "status"
+      }
+    ]
+  },
+  "waterfall": {
+    "effects": [
+      {
+        "chance": 20,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  },
+  "zap-cannon": {
+    "effects": [
+      {
+        "chance": 100,
+        "status": "paralysis",
+        "type": "status"
+      }
+    ]
+  },
+  "zen-headbutt": {
+    "effects": [
+      {
+        "chance": 20,
+        "status": "flinch",
+        "type": "status"
+      }
+    ]
+  }
+}

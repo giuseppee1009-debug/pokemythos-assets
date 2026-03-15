@@ -1,0 +1,38 @@
+{
+    "3": {
+        "default": "<:venusaur_shiny_gmax:1460039940208332880>"
+    },
+    "6": {
+        "default": "<:charizard_shiny_gmax:1460039957547585703>"
+    },
+    "9": {
+        "default": "<:blastoise_shiny_gmax:1460039974865862829>"
+    },
+    "12": {
+        "default": "<:butterfree_shiny_gmax:1460039992033280314>"
+    },
+    "25": {
+        "default": "<:pikachu_shiny_gmax:1460040008986525788>"
+    },
+    "52": {
+        "default": "<:meowth_shiny_gmax:1460040026195886202>"
+    },
+    "68": {
+        "default": "<:machamp_shiny_gmax:1460040044621336709>"
+    },
+    "94": {
+        "default": "<:gengar_shiny_gmax:1460040061855989784>"
+    },
+    "99": {
+        "default": "<:kingler_shiny_gmax:1460040079626998037>"
+    },
+    "131": {
+        "default": "<:lapras_shiny_gmax:1460040097549389845>"
+    },
+    "133": {
+        "default": "<:eevee_shiny_gmax:1460040115345821797>"
+    },
+    "143": {
+        "default": "<:snorlax_shiny_gmax:1460040132462772398>"
+    }
+}

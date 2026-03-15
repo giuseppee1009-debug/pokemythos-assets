@@ -1,0 +1,2448 @@
+{
+  "acid-armor": {
+    "effects": [
+      {
+        "delta": 2,
+        "stat": "def",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "acupressure": {
+    "effects": [
+      {
+        "flag": "status_acupressure",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "self"
+  },
+  "after-you": {
+    "effects": [
+      {
+        "flag": "status_after_you",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "agility": {
+    "effects": [
+      {
+        "delta": 2,
+        "stat": "spe",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "ally-switch": {
+    "effects": [
+      {
+        "flag": "status_ally_switch",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "amnesia": {
+    "effects": [
+      {
+        "delta": 2,
+        "stat": "spd",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "aqua-ring": {
+    "effects": [
+      {
+        "flag": "status_aqua_ring",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "aromatherapy": {
+    "effects": [
+      {
+        "target": "self",
+        "type": "clear_status"
+      }
+    ],
+    "target": "opponent"
+  },
+  "aromatic-mist": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "spd",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "assist": {
+    "effects": [
+      {
+        "flag": "status_assist",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "attract": {
+    "effects": [
+      {
+        "flag": "status_attract",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "aurora-veil": {
+    "effects": [
+      {
+        "flag": "status_aurora_veil",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "autotomize": {
+    "effects": [
+      {
+        "delta": 2,
+        "stat": "spe",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "baby-doll-eyes": {
+    "effects": [
+      {
+        "delta": -1,
+        "stat": "atk",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "barrier": {
+    "effects": [
+      {
+        "delta": 2,
+        "stat": "def",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "baton-pass": {
+    "effects": [
+      {
+        "flag": "status_baton_pass",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "belly-drum": {
+    "effects": [
+      {
+        "flag": "status_belly_drum",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "bestow": {
+    "effects": [
+      {
+        "flag": "status_bestow",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "block": {
+    "effects": [
+      {
+        "flag": "status_block",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "bulk-up": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "atk",
+        "type": "stage"
+      },
+      {
+        "delta": 1,
+        "stat": "def",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "calm-mind": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "spa",
+        "type": "stage"
+      },
+      {
+        "delta": 1,
+        "stat": "spd",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "camouflage": {
+    "effects": [
+      {
+        "flag": "status_camouflage",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "captivate": {
+    "effects": [
+      {
+        "delta": -2,
+        "stat": "spa",
+        "type": "stage"
+      }
+    ],
+    "target": "both"
+  },
+  "charge": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "spd",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "charm": {
+    "effects": [
+      {
+        "delta": -2,
+        "stat": "atk",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "coaching": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "atk",
+        "type": "stage"
+      },
+      {
+        "delta": 1,
+        "stat": "def",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "coil": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "atk",
+        "type": "stage"
+      },
+      {
+        "delta": 1,
+        "stat": "def",
+        "type": "stage"
+      },
+      {
+        "delta": 1,
+        "stat": "accuracy",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "confide": {
+    "effects": [
+      {
+        "delta": -1,
+        "stat": "spa",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "confuse-ray": {
+    "effects": [
+      {
+        "status": "confusion",
+        "type": "status"
+      }
+    ],
+    "target": "opponent"
+  },
+  "conversion": {
+    "effects": [
+      {
+        "flag": "status_conversion",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "conversion-2": {
+    "effects": [
+      {
+        "flag": "status_conversion_2",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "copycat": {
+    "effects": [
+      {
+        "flag": "status_copycat",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "corrosive-gas": {
+    "effects": [
+      {
+        "text": "No mapped effect from PokeAPI metadata.",
+        "type": "no_op"
+      }
+    ],
+    "target": "both"
+  },
+  "cosmic-power": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "def",
+        "type": "stage"
+      },
+      {
+        "delta": 1,
+        "stat": "spd",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "cotton-guard": {
+    "effects": [
+      {
+        "delta": 3,
+        "stat": "def",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "cotton-spore": {
+    "effects": [
+      {
+        "delta": -2,
+        "stat": "spe",
+        "type": "stage"
+      }
+    ],
+    "target": "both"
+  },
+  "crafty-shield": {
+    "effects": [
+      {
+        "text": "No mapped effect from PokeAPI metadata.",
+        "type": "no_op"
+      }
+    ],
+    "target": "self"
+  },
+  "curse": {
+    "effects": [
+      {
+        "flag": "status_curse",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "dark-void": {
+    "effects": [
+      {
+        "status": "sleep",
+        "type": "status"
+      }
+    ],
+    "target": "both"
+  },
+  "defend-order": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "def",
+        "type": "stage"
+      },
+      {
+        "delta": 1,
+        "stat": "spd",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "defense-curl": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "def",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "defog": {
+    "effects": [
+      {
+        "delta": -1,
+        "stat": "evasion",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "destiny-bond": {
+    "effects": [
+      {
+        "flag": "status_destiny_bond",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "detect": {
+    "effects": [
+      {
+        "flag": "status_detect",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "disable": {
+    "effects": [
+      {
+        "flag": "status_disable",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "double-team": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "evasion",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "dragon-cheer": {
+    "effects": [
+      {
+        "flag": "status_dragon_cheer",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "self"
+  },
+  "dragon-dance": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "atk",
+        "type": "stage"
+      },
+      {
+        "delta": 1,
+        "stat": "spe",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "eerie-impulse": {
+    "effects": [
+      {
+        "delta": -2,
+        "stat": "spa",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "electric-terrain": {
+    "effects": [
+      {
+        "flag": "status_electric_terrain",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "electrify": {
+    "effects": [
+      {
+        "text": "No mapped effect from PokeAPI metadata.",
+        "type": "no_op"
+      }
+    ],
+    "target": "opponent"
+  },
+  "embargo": {
+    "effects": [
+      {
+        "flag": "status_embargo",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "encore": {
+    "effects": [
+      {
+        "flag": "status_encore",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "endure": {
+    "effects": [
+      {
+        "flag": "status_endure",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "entrainment": {
+    "effects": [
+      {
+        "flag": "status_entrainment",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "fairy-lock": {
+    "effects": [
+      {
+        "text": "No mapped effect from PokeAPI metadata.",
+        "type": "no_op"
+      }
+    ],
+    "target": "both"
+  },
+  "fake-tears": {
+    "effects": [
+      {
+        "delta": -2,
+        "stat": "spd",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "feather-dance": {
+    "effects": [
+      {
+        "delta": -2,
+        "stat": "atk",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "flash": {
+    "effects": [
+      {
+        "delta": -1,
+        "stat": "accuracy",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "flatter": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "spa",
+        "type": "stage"
+      },
+      {
+        "status": "confusion",
+        "type": "status"
+      }
+    ],
+    "target": "opponent"
+  },
+  "flower-shield": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "def",
+        "type": "stage"
+      }
+    ],
+    "target": "both"
+  },
+  "focus-energy": {
+    "effects": [
+      {
+        "flag": "status_focus_energy",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "follow-me": {
+    "effects": [
+      {
+        "flag": "status_follow_me",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "foresight": {
+    "effects": [
+      {
+        "flag": "status_foresight",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "forests-curse": {
+    "effects": [
+      {
+        "text": "No mapped effect from PokeAPI metadata.",
+        "type": "no_op"
+      }
+    ],
+    "target": "opponent"
+  },
+  "gastro-acid": {
+    "effects": [
+      {
+        "flag": "status_gastro_acid",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "gear-up": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "atk",
+        "type": "stage"
+      },
+      {
+        "delta": 1,
+        "stat": "spa",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "geomancy": {
+    "effects": [
+      {
+        "delta": 2,
+        "stat": "spa",
+        "type": "stage"
+      },
+      {
+        "delta": 2,
+        "stat": "spd",
+        "type": "stage"
+      },
+      {
+        "delta": 2,
+        "stat": "spe",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "glare": {
+    "effects": [
+      {
+        "status": "paralysis",
+        "type": "status"
+      }
+    ],
+    "target": "opponent"
+  },
+  "grass-whistle": {
+    "effects": [
+      {
+        "status": "sleep",
+        "type": "status"
+      }
+    ],
+    "target": "opponent"
+  },
+  "grassy-terrain": {
+    "effects": [
+      {
+        "flag": "status_grassy_terrain",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "gravity": {
+    "effects": [
+      {
+        "flag": "status_gravity",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "growl": {
+    "effects": [
+      {
+        "delta": -1,
+        "stat": "atk",
+        "type": "stage"
+      }
+    ],
+    "target": "both"
+  },
+  "growth": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "atk",
+        "type": "stage"
+      },
+      {
+        "delta": 1,
+        "stat": "spa",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "grudge": {
+    "effects": [
+      {
+        "flag": "status_grudge",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "guard-split": {
+    "effects": [
+      {
+        "flag": "status_guard_split",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "guard-swap": {
+    "effects": [
+      {
+        "flag": "status_guard_swap",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "harden": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "def",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "haze": {
+    "effects": [
+      {
+        "target": "both",
+        "type": "reset_stages"
+      }
+    ],
+    "target": "both"
+  },
+  "heal-bell": {
+    "effects": [
+      {
+        "target": "self",
+        "type": "clear_status"
+      }
+    ],
+    "target": "opponent"
+  },
+  "heal-block": {
+    "effects": [
+      {
+        "flag": "status_heal_block",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "heal-order": {
+    "effects": [
+      {
+        "denominator": 2,
+        "numerator": 1,
+        "type": "heal"
+      }
+    ],
+    "target": "self"
+  },
+  "heal-pulse": {
+    "effects": [
+      {
+        "denominator": 2,
+        "numerator": 1,
+        "type": "heal"
+      }
+    ],
+    "target": "opponent"
+  },
+  "healing-wish": {
+    "effects": [
+      {
+        "flag": "status_healing_wish",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "heart-swap": {
+    "effects": [
+      {
+        "flag": "status_heart_swap",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "helping-hand": {
+    "effects": [
+      {
+        "flag": "status_helping_hand",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "self"
+  },
+  "hone-claws": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "atk",
+        "type": "stage"
+      },
+      {
+        "delta": 1,
+        "stat": "accuracy",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "howl": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "atk",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "hypnosis": {
+    "effects": [
+      {
+        "status": "sleep",
+        "type": "status"
+      }
+    ],
+    "target": "opponent"
+  },
+  "imprison": {
+    "effects": [
+      {
+        "flag": "status_imprison",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "ingrain": {
+    "effects": [
+      {
+        "flag": "status_ingrain",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "ion-deluge": {
+    "effects": [
+      {
+        "flag": "status_ion_deluge",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "iron-defense": {
+    "effects": [
+      {
+        "delta": 2,
+        "stat": "def",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "kinesis": {
+    "effects": [
+      {
+        "delta": -1,
+        "stat": "accuracy",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "kings-shield": {
+    "effects": [
+      {
+        "text": "No mapped effect from PokeAPI metadata.",
+        "type": "no_op"
+      }
+    ],
+    "target": "self"
+  },
+  "laser-focus": {
+    "effects": [
+      {
+        "flag": "status_laser_focus",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "leech-seed": {
+    "effects": [
+      {
+        "flag": "status_leech_seed",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "leer": {
+    "effects": [
+      {
+        "delta": -1,
+        "stat": "def",
+        "type": "stage"
+      }
+    ],
+    "target": "both"
+  },
+  "life-dew": {
+    "effects": [
+      {
+        "denominator": 4,
+        "numerator": 1,
+        "type": "heal"
+      }
+    ],
+    "target": "opponent"
+  },
+  "light-screen": {
+    "effects": [
+      {
+        "screen": "light_screen",
+        "target": "self",
+        "turns": 5,
+        "type": "screen"
+      }
+    ],
+    "target": "self"
+  },
+  "lock-on": {
+    "effects": [
+      {
+        "flag": "status_lock_on",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "lovely-kiss": {
+    "effects": [
+      {
+        "status": "sleep",
+        "type": "status"
+      }
+    ],
+    "target": "opponent"
+  },
+  "lucky-chant": {
+    "effects": [
+      {
+        "flag": "status_lucky_chant",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "lunar-dance": {
+    "effects": [
+      {
+        "flag": "status_lunar_dance",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "magic-coat": {
+    "effects": [
+      {
+        "flag": "status_magic_coat",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "magic-room": {
+    "effects": [
+      {
+        "flag": "status_magic_room",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "magnet-rise": {
+    "effects": [
+      {
+        "flag": "status_magnet_rise",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "magnetic-flux": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "def",
+        "type": "stage"
+      },
+      {
+        "delta": 1,
+        "stat": "spd",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "me-first": {
+    "effects": [
+      {
+        "flag": "status_me_first",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "mean-look": {
+    "effects": [
+      {
+        "flag": "status_mean_look",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "meditate": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "atk",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "memento": {
+    "effects": [
+      {
+        "delta": -2,
+        "stat": "atk",
+        "type": "stage"
+      },
+      {
+        "delta": -2,
+        "stat": "spa",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "metal-sound": {
+    "effects": [
+      {
+        "delta": -2,
+        "stat": "spd",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "metronome": {
+    "effects": [
+      {
+        "flag": "status_metronome",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "milk-drink": {
+    "effects": [
+      {
+        "denominator": 2,
+        "numerator": 1,
+        "type": "heal"
+      }
+    ],
+    "target": "self"
+  },
+  "mimic": {
+    "effects": [
+      {
+        "flag": "status_mimic",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "mind-reader": {
+    "effects": [
+      {
+        "flag": "status_mind_reader",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "minimize": {
+    "effects": [
+      {
+        "delta": 2,
+        "stat": "evasion",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "miracle-eye": {
+    "effects": [
+      {
+        "flag": "status_miracle_eye",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "mirror-move": {
+    "effects": [
+      {
+        "flag": "status_mirror_move",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "mist": {
+    "effects": [
+      {
+        "flag": "status_mist",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "misty-terrain": {
+    "effects": [
+      {
+        "flag": "status_misty_terrain",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "moonlight": {
+    "effects": [
+      {
+        "denominator": 2,
+        "numerator": 1,
+        "type": "heal"
+      }
+    ],
+    "target": "self"
+  },
+  "morning-sun": {
+    "effects": [
+      {
+        "denominator": 2,
+        "numerator": 1,
+        "type": "heal"
+      }
+    ],
+    "target": "self"
+  },
+  "mud-sport": {
+    "effects": [
+      {
+        "flag": "status_mud_sport",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "nasty-plot": {
+    "effects": [
+      {
+        "delta": 2,
+        "stat": "spa",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "nature-power": {
+    "effects": [
+      {
+        "flag": "status_nature_power",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "nightmare": {
+    "effects": [
+      {
+        "flag": "status_nightmare",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "noble-roar": {
+    "effects": [
+      {
+        "delta": -1,
+        "stat": "atk",
+        "type": "stage"
+      },
+      {
+        "delta": -1,
+        "stat": "spa",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "odor-sleuth": {
+    "effects": [
+      {
+        "flag": "status_odor_sleuth",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "pain-split": {
+    "effects": [
+      {
+        "flag": "status_pain_split",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "parting-shot": {
+    "effects": [
+      {
+        "delta": -1,
+        "stat": "atk",
+        "type": "stage"
+      },
+      {
+        "delta": -1,
+        "stat": "spa",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "perish-song": {
+    "effects": [
+      {
+        "flag": "status_perish_song",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "play-nice": {
+    "effects": [
+      {
+        "delta": -1,
+        "stat": "atk",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "poison-gas": {
+    "effects": [
+      {
+        "status": "poison",
+        "type": "status"
+      }
+    ],
+    "target": "both"
+  },
+  "poison-powder": {
+    "effects": [
+      {
+        "status": "poison",
+        "type": "status"
+      }
+    ],
+    "target": "opponent"
+  },
+  "power-split": {
+    "effects": [
+      {
+        "flag": "status_power_split",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "power-swap": {
+    "effects": [
+      {
+        "flag": "status_power_swap",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "power-trick": {
+    "effects": [
+      {
+        "flag": "status_power_trick",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "protect": {
+    "effects": [
+      {
+        "flag": "status_protect",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "psych-up": {
+    "effects": [
+      {
+        "flag": "status_psych_up",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "psychic-terrain": {
+    "effects": [
+      {
+        "flag": "status_psychic_terrain",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "psycho-shift": {
+    "effects": [
+      {
+        "flag": "status_psycho_shift",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "quash": {
+    "effects": [
+      {
+        "flag": "status_quash",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "quick-guard": {
+    "effects": [
+      {
+        "flag": "status_quick_guard",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "quiver-dance": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "spa",
+        "type": "stage"
+      },
+      {
+        "delta": 1,
+        "stat": "spd",
+        "type": "stage"
+      },
+      {
+        "delta": 1,
+        "stat": "spe",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "rage-powder": {
+    "effects": [
+      {
+        "flag": "status_rage_powder",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "recover": {
+    "effects": [
+      {
+        "denominator": 2,
+        "numerator": 1,
+        "type": "heal"
+      }
+    ],
+    "target": "self"
+  },
+  "recycle": {
+    "effects": [
+      {
+        "flag": "status_recycle",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "reflect": {
+    "effects": [
+      {
+        "screen": "reflect",
+        "target": "self",
+        "turns": 5,
+        "type": "screen"
+      }
+    ],
+    "target": "self"
+  },
+  "reflect-type": {
+    "effects": [
+      {
+        "flag": "status_reflect_type",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "refresh": {
+    "effects": [
+      {
+        "target": "self",
+        "type": "clear_status"
+      }
+    ],
+    "target": "self"
+  },
+  "rest": {
+    "effects": [
+      {
+        "target": "self",
+        "type": "full_heal"
+      },
+      {
+        "status": "sleep",
+        "target": "self",
+        "turns": 2,
+        "type": "status"
+      }
+    ],
+    "target": "self"
+  },
+  "roar": {
+    "effects": [
+      {
+        "flag": "status_roar",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "rock-polish": {
+    "effects": [
+      {
+        "delta": 2,
+        "stat": "spe",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "role-play": {
+    "effects": [
+      {
+        "flag": "status_role_play",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "roost": {
+    "effects": [
+      {
+        "denominator": 2,
+        "numerator": 1,
+        "type": "heal"
+      }
+    ],
+    "target": "self"
+  },
+  "rototiller": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "atk",
+        "type": "stage"
+      },
+      {
+        "delta": 1,
+        "stat": "spa",
+        "type": "stage"
+      }
+    ],
+    "target": "both"
+  },
+  "safeguard": {
+    "effects": [
+      {
+        "flag": "status_safeguard",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "sand-attack": {
+    "effects": [
+      {
+        "delta": -1,
+        "stat": "accuracy",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "scary-face": {
+    "effects": [
+      {
+        "delta": -2,
+        "stat": "spe",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "screech": {
+    "effects": [
+      {
+        "delta": -2,
+        "stat": "def",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "sharpen": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "atk",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "shell-smash": {
+    "effects": [
+      {
+        "delta": -1,
+        "stat": "def",
+        "type": "stage"
+      },
+      {
+        "delta": -1,
+        "stat": "spd",
+        "type": "stage"
+      },
+      {
+        "delta": 2,
+        "stat": "atk",
+        "type": "stage"
+      },
+      {
+        "delta": 2,
+        "stat": "spa",
+        "type": "stage"
+      },
+      {
+        "delta": 2,
+        "stat": "spe",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "shift-gear": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "atk",
+        "type": "stage"
+      },
+      {
+        "delta": 2,
+        "stat": "spe",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "simple-beam": {
+    "effects": [
+      {
+        "flag": "status_simple_beam",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "sing": {
+    "effects": [
+      {
+        "status": "sleep",
+        "type": "status"
+      }
+    ],
+    "target": "opponent"
+  },
+  "sketch": {
+    "effects": [
+      {
+        "flag": "status_sketch",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "skill-swap": {
+    "effects": [
+      {
+        "flag": "status_skill_swap",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "slack-off": {
+    "effects": [
+      {
+        "denominator": 2,
+        "numerator": 1,
+        "type": "heal"
+      }
+    ],
+    "target": "self"
+  },
+  "sleep-powder": {
+    "effects": [
+      {
+        "status": "sleep",
+        "type": "status"
+      }
+    ],
+    "target": "opponent"
+  },
+  "sleep-talk": {
+    "effects": [
+      {
+        "flag": "status_sleep_talk",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "smokescreen": {
+    "effects": [
+      {
+        "delta": -1,
+        "stat": "accuracy",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "snatch": {
+    "effects": [
+      {
+        "flag": "status_snatch",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "soak": {
+    "effects": [
+      {
+        "flag": "status_soak",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "soft-boiled": {
+    "effects": [
+      {
+        "denominator": 2,
+        "numerator": 1,
+        "type": "heal"
+      }
+    ],
+    "target": "self"
+  },
+  "speed-swap": {
+    "effects": [
+      {
+        "flag": "status_speed_swap",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "spider-web": {
+    "effects": [
+      {
+        "flag": "status_spider_web",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "spikes": {
+    "effects": [
+      {
+        "flag": "status_spikes",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "spiky-shield": {
+    "effects": [
+      {
+        "flag": "status_spiky_shield",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "spite": {
+    "effects": [
+      {
+        "flag": "status_spite",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "splash": {
+    "effects": [
+      {
+        "flag": "status_splash",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "spore": {
+    "effects": [
+      {
+        "status": "sleep",
+        "type": "status"
+      }
+    ],
+    "target": "opponent"
+  },
+  "spotlight": {
+    "effects": [
+      {
+        "flag": "status_spotlight",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "stealth-rock": {
+    "effects": [
+      {
+        "flag": "status_stealth_rock",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "sticky-web": {
+    "effects": [
+      {
+        "flag": "status_sticky_web",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "stockpile": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "def",
+        "type": "stage"
+      },
+      {
+        "delta": 1,
+        "stat": "spd",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "strength-sap": {
+    "effects": [
+      {
+        "delta": -1,
+        "stat": "atk",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "string-shot": {
+    "effects": [
+      {
+        "delta": -2,
+        "stat": "spe",
+        "type": "stage"
+      }
+    ],
+    "target": "both"
+  },
+  "stun-spore": {
+    "effects": [
+      {
+        "status": "paralysis",
+        "type": "status"
+      }
+    ],
+    "target": "opponent"
+  },
+  "substitute": {
+    "effects": [
+      {
+        "flag": "status_substitute",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "supersonic": {
+    "effects": [
+      {
+        "status": "confusion",
+        "type": "status"
+      }
+    ],
+    "target": "opponent"
+  },
+  "swagger": {
+    "effects": [
+      {
+        "delta": 2,
+        "stat": "atk",
+        "type": "stage"
+      },
+      {
+        "status": "confusion",
+        "type": "status"
+      }
+    ],
+    "target": "opponent"
+  },
+  "swallow": {
+    "effects": [
+      {
+        "denominator": 4,
+        "numerator": 1,
+        "type": "heal"
+      }
+    ],
+    "target": "self"
+  },
+  "sweet-kiss": {
+    "effects": [
+      {
+        "status": "confusion",
+        "type": "status"
+      }
+    ],
+    "target": "opponent"
+  },
+  "sweet-scent": {
+    "effects": [
+      {
+        "delta": -2,
+        "stat": "evasion",
+        "type": "stage"
+      }
+    ],
+    "target": "both"
+  },
+  "switcheroo": {
+    "effects": [
+      {
+        "flag": "status_switcheroo",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "swords-dance": {
+    "effects": [
+      {
+        "delta": 2,
+        "stat": "atk",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "synthesis": {
+    "effects": [
+      {
+        "denominator": 2,
+        "numerator": 1,
+        "type": "heal"
+      }
+    ],
+    "target": "self"
+  },
+  "tail-glow": {
+    "effects": [
+      {
+        "delta": 3,
+        "stat": "spa",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "tail-whip": {
+    "effects": [
+      {
+        "delta": -1,
+        "stat": "def",
+        "type": "stage"
+      }
+    ],
+    "target": "both"
+  },
+  "tailwind": {
+    "effects": [
+      {
+        "flag": "status_tailwind",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "taunt": {
+    "effects": [
+      {
+        "flag": "status_taunt",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "tearful-look": {
+    "effects": [
+      {
+        "delta": -1,
+        "stat": "atk",
+        "type": "stage"
+      },
+      {
+        "delta": -1,
+        "stat": "spa",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "teeter-dance": {
+    "effects": [
+      {
+        "status": "confusion",
+        "type": "status"
+      }
+    ],
+    "target": "both"
+  },
+  "telekinesis": {
+    "effects": [
+      {
+        "flag": "status_telekinesis",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "teleport": {
+    "effects": [
+      {
+        "flag": "status_teleport",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "thunder-wave": {
+    "effects": [
+      {
+        "status": "paralysis",
+        "type": "status"
+      }
+    ],
+    "target": "opponent"
+  },
+  "tickle": {
+    "effects": [
+      {
+        "delta": -1,
+        "stat": "atk",
+        "type": "stage"
+      },
+      {
+        "delta": -1,
+        "stat": "def",
+        "type": "stage"
+      }
+    ],
+    "target": "opponent"
+  },
+  "tidy-up": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "atk",
+        "type": "stage"
+      },
+      {
+        "delta": 1,
+        "stat": "spe",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "topsy-turvy": {
+    "effects": [
+      {
+        "text": "No mapped effect from PokeAPI metadata.",
+        "type": "no_op"
+      }
+    ],
+    "target": "opponent"
+  },
+  "torment": {
+    "effects": [
+      {
+        "flag": "status_torment",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "toxic": {
+    "effects": [
+      {
+        "status": "poison",
+        "type": "status"
+      }
+    ],
+    "target": "opponent"
+  },
+  "toxic-spikes": {
+    "effects": [
+      {
+        "flag": "status_toxic_spikes",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "toxic-thread": {
+    "effects": [
+      {
+        "delta": -1,
+        "stat": "spe",
+        "type": "stage"
+      },
+      {
+        "status": "poison",
+        "type": "status"
+      }
+    ],
+    "target": "opponent"
+  },
+  "transform": {
+    "effects": [
+      {
+        "type": "transform"
+      }
+    ],
+    "target": "self"
+  },
+  "trick": {
+    "effects": [
+      {
+        "flag": "status_trick",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "self"
+  },
+  "trick-or-treat": {
+    "effects": [
+      {
+        "text": "No mapped effect from PokeAPI metadata.",
+        "type": "no_op"
+      }
+    ],
+    "target": "opponent"
+  },
+  "trick-room": {
+    "effects": [
+      {
+        "flag": "status_trick_room",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "venom-drench": {
+    "effects": [
+      {
+        "delta": -1,
+        "stat": "atk",
+        "type": "stage"
+      },
+      {
+        "delta": -1,
+        "stat": "spa",
+        "type": "stage"
+      },
+      {
+        "delta": -1,
+        "stat": "spe",
+        "type": "stage"
+      }
+    ],
+    "target": "both"
+  },
+  "water-sport": {
+    "effects": [
+      {
+        "flag": "status_water_sport",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "whirlwind": {
+    "effects": [
+      {
+        "flag": "status_whirlwind",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "wide-guard": {
+    "effects": [
+      {
+        "flag": "status_wide_guard",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "will-o-wisp": {
+    "effects": [
+      {
+        "status": "burn",
+        "type": "status"
+      }
+    ],
+    "target": "opponent"
+  },
+  "wish": {
+    "effects": [
+      {
+        "flag": "status_wish",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "withdraw": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "def",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "wonder-room": {
+    "effects": [
+      {
+        "flag": "status_wonder_room",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "work-up": {
+    "effects": [
+      {
+        "delta": 1,
+        "stat": "atk",
+        "type": "stage"
+      },
+      {
+        "delta": 1,
+        "stat": "spa",
+        "type": "stage"
+      }
+    ],
+    "target": "self"
+  },
+  "worry-seed": {
+    "effects": [
+      {
+        "flag": "status_worry_seed",
+        "type": "volatile",
+        "value": true
+      }
+    ],
+    "target": "opponent"
+  },
+  "yawn": {
+    "effects": [
+      {
+        "status": "sleep",
+        "type": "status"
+      }
+    ],
+    "target": "opponent"
+  }
+}

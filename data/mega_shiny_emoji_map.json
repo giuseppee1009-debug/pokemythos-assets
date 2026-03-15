@@ -1,0 +1,132 @@
+{
+    "3": {
+        "default": "<:svenusaurmega:1457837802640244768>"
+    },
+    "6": {
+        "x": "<:scharizardmegax:1457837823355916460>",
+        "y": "<:scharizardmegay:1457837844843200632>"
+    },
+    "9": {
+        "default": "<:sblastoisemega:1457837864556433620>"
+    },
+    "15": {
+        "default": "<:sbeedrillmega:1457837884907196531>"
+    },
+    "18": {
+        "default": "<:spidgeotmega:1457837904737861769>"
+    },
+    "65": {
+        "default": "<:salakazammega:1457837925495734469>"
+    },
+    "80": {
+        "default": "<:sslowbromega:1457837946051760364>"
+    },
+    "94": {
+        "default": "<:sgengarmega:1457837968076046449>"
+    },
+    "115": {
+        "default": "<:skangaskhanmega:1457837988280012990>"
+    },
+    "127": {
+        "default": "<:spinsirmega:1457838008156946473>"
+    },
+    "130": {
+        "default": "<:sgyaradosmega:1457838027824169024>"
+    },
+    "142": {
+        "default": "<:saerodactylmega:1457838048179130429>"
+    },
+    "150": {
+        "x": "<:smewtwomegax:1457838068496077059>",
+        "y": "<:smewtwomegay:1457838088406696241>"
+    },
+    "181": {
+        "default": "<:ampharos_mega_shiny:1457897199680753708>"
+    },
+    "208": {
+        "default": "<:steelix_mega_shiny:1457897224422953042>"
+    },
+    "212": {
+        "default": "<:scizor_mega_shiny:1457897248808763557>"
+    },
+    "214": {
+        "default": "<:heracross_mega_shiny:1457897273462882355>"
+    },
+    "229": {
+        "default": "<:houndoom_mega_shiny:1457897297575809157>"
+    },
+    "248": {
+        "default": "<:tyranitar_mega_shiny:1457897322028728482>"
+    },
+    "254": {
+        "default": "<:sceptile_mega_s:1459333100059492524>"
+    },
+    "257": {
+        "default": "<:blaziken_mega_s:1459333184679317534>"
+    },
+    "260": {
+        "default": "<:swampert_mega_s:1459333269756707019>"
+    },
+    "282": {
+        "default": "<:gardevoir_mega_s:1459333776965636249>"
+    },
+    "302": {
+        "default": "<:sableye_mega_s:1459334229425913917>"
+    },
+    "303": {
+        "default": "<:mawile_mega_s:1459334273793396882>"
+    },
+    "306": {
+        "default": "<:aggron_mega_s:1459334358828716032>"
+    },
+    "308": {
+        "default": "<:medicham_mega_s:1459334422745714719>"
+    },
+    "310": {
+        "default": "<:manectric_mega_s:1459334486935474256>"
+    },
+    "319": {
+        "default": "<:sharpedo_mega_s:1459334706268209171>"
+    },
+    "323": {
+        "default": "<:camerupt_mega_s:1459334812463792150>"
+    },
+    "334": {
+        "default": "<:altaria_mega_s:1459335073521471612>"
+    },
+    "354": {
+        "default": "<:banette_mega_s:1459335527487508745>"
+    },
+    "359": {
+        "default": "<:absol_mega_s:1459335657863249923>"
+    },
+    "362": {
+        "default": "<:glalie_mega_s:1459335745763283109>"
+    },
+    "373": {
+        "default": "<:salamence_mega_s:1459336003054731295>"
+    },
+    "376": {
+        "default": "<:metagross_mega_s:1459336088991563807>"
+    },
+    "380": {
+        "default": "<:latias_mega_s:1459336197162664138>"
+    },
+    "381": {
+        "default": "<:latios_mega_s:1459336244248182998>"
+    },
+    "382": {
+        "default": "<:kyogre_primal_s:1459336286744875038>"
+    },
+    "383": {
+        "default": "<:groudon_primal_s:1459336330134818908>"
+    },
+    "384": {
+        "default": "<:rayquaza_mega_s:1459336372111409316>"
+    },
+    "386": {
+        "attack": "<:deoxys_attack_s:1459336437790019796>",
+        "defense": "<:deoxys_defense_s:1459336459394875442>",
+        "speed": "<:deoxys_speed_s:1459336480873775185>"
+    }
+}

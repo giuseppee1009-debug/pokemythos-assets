@@ -1,0 +1,77 @@
+{
+    "Adamant": {
+        "desc": "+10% Atk -10% SpAtk"
+    },
+    "Bashful": {
+        "desc": "Neutral"
+    },
+    "Bold": {
+        "desc": "+10% Def -10% Atk"
+    },
+    "Brave": {
+        "desc": "+10% Atk -10% Speed"
+    },
+    "Calm": {
+        "desc": "+10% SpDef -10% Atk"
+    },
+    "Careful": {
+        "desc": "+10% SpDef -10% SpAtk"
+    },
+    "Docile": {
+        "desc": "Neutral"
+    },
+    "Gentle": {
+        "desc": "+10% SpDef -10% Def"
+    },
+    "Hardy": {
+        "desc": "Neutral"
+    },
+    "Hasty": {
+        "desc": "+10% Speed -10% Def"
+    },
+    "Impish": {
+        "desc": "+10% Def -10% SpAtk"
+    },
+    "Jolly": {
+        "desc": "+10% Speed -10% SpAtk"
+    },
+    "Lax": {
+        "desc": "+10% Def -10% SpDef"
+    },
+    "Lonely": {
+        "desc": "+10% Atk -10% Def"
+    },
+    "Mild": {
+        "desc": "+10% SpAtk -10% Def"
+    },
+    "Modest": {
+        "desc": "+10% SpAtk -10% Atk"
+    },
+    "Naive": {
+        "desc": "+10% Speed -10% SpDef"
+    },
+    "Naughty": {
+        "desc": "+10% Atk -10% SpDef"
+    },
+    "Quiet": {
+        "desc": "+10% SpAtk -10% Speed"
+    },
+    "Quirky": {
+        "desc": "Neutral"
+    },
+    "Rash": {
+        "desc": "+10% SpAtk -10% SpDef"
+    },
+    "Relaxed": {
+        "desc": "+10% Def -10% Speed"
+    },
+    "Sassy": {
+        "desc": "+10% SpDef -10% Speed"
+    },
+    "Serious": {
+        "desc": "Neutral"
+    },
+    "Timid": {
+        "desc": "+10% Speed -10% Atk"
+    }
+}
